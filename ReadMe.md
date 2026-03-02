@@ -3,7 +3,7 @@
 > A Minecraft-style voxel sandbox built entirely from scratch in C++.
 
 <p align="center">
-  <img src="images/world.gif" width="800"/>
+  <img src="Data/Images/SimpleMiner1.gif" width="800"/>
 </p>
 
 ---
@@ -83,8 +83,7 @@ Minecraft-style flood fill lighting:
 ## Screenshots
 
 <p align="center">
-  <img src="images/terrain.png" width="45%"/>
-  <img src="images/cave.png" width="45%"/>
+  <img src="Data/Images/SimpleMiner2.gif" width="800"/>
 </p>
 
 ---
@@ -118,7 +117,7 @@ This project was implemented entirely by me, including:
 **Leep**  
 Game Programmer
 
-Portfolio: *(放你的网站链接)*  
-LinkedIn: *(放你的linkedin)*
+Portfolio: https://sites.google.com/view/leepportfolio/ 
+LinkedIn: www.linkedin.com/in/peiyi-li-dev
 
 ---
