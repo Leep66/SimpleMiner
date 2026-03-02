@@ -1,11 +1,6 @@
 # ⛏️ Simple Miner
 
 > A Minecraft-style voxel sandbox built entirely from scratch in C++.
-
-<p align="center">
-  <img src="Data/Images/SimpleMiner1.gif" width="800"/>
-</p>
-
 ---
 
 ## Overview
@@ -77,14 +72,6 @@ Minecraft-style flood fill lighting:
 - Spatial partitioning
 - Procedural terrain using noise
 - Texture atlas rendering
-
----
-
-## Screenshots
-
-<p align="center">
-  <img src="Data/Images/SimpleMiner2.gif" width="800"/>
-</p>
 
 ---
 
