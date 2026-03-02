@@ -1,0 +1,7 @@
+﻿<GameConfig
+	projectName="Simple Miner"
+	windowAspect="1.6"
+	screenWidth="1600.0"
+	screenHeight="1000.0"
+	isFullScreen="true"
+/>
