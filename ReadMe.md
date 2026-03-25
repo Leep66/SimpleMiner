@@ -3,6 +3,9 @@
 > A Minecraft-style voxel sandbox built entirely from scratch in C++.
 ---
 
+Engine: https://github.com/Leep66/Engine
+Game: https://github.com/Leep66/SimpleMiner
+
 ## Overview
 
 **Simple Miner** is a custom-engine voxel game focused on real-time world streaming, procedural terrain generation, and dynamic lighting.
