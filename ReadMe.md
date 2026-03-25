@@ -3,8 +3,12 @@
 > A Minecraft-style voxel sandbox built entirely from scratch in C++.
 ---
 
-Engine: https://github.com/Leep66/Engine
-Game: https://github.com/Leep66/SimpleMiner
+## Project Structure
+
+- **Engine:** https://github.com/Leep66/Engine  
+- **Game:** https://github.com/Leep66/SimpleMiner  
+
+The game logic, world simulation, and rendering are implemented using my own custom-built C++ engine.
 
 ## Overview
 
